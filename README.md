@@ -6,4 +6,4 @@ Eduardo Ruan Guimarães Fonseca,
 Matheus de Paula Megale,
 Renan Augusto da Silva
 
-O código todo está documento. Caso queira uma documentação no formato javadoc, baixe o arquivo Grafos.rar e entre no arquivo Main.html
+O código todo está documentado. Caso queira uma documentação no formato javadoc, baixe o arquivo Grafos.rar e entre no arquivo Main.html
